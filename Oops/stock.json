@@ -1,0 +1,17 @@
+{
+    "stock": [{
+        "stock_name": "tcs",
+        "no_of_shares": "10",
+        "total_price": "10000"
+    }],
+    "stock1": [{
+        "stock_name": "mahendra",
+        "no_of_shares": "12",
+        "total_price": "50000"
+    }],
+    "stock2": [{
+        "stock_name": "jio",
+        "no_of_shares": "54",
+        "total_price": "1000000"
+    }]
+}

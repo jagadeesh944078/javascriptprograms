@@ -1,0 +1,25 @@
+{
+    "user": [
+        {
+            "name": "Akshaya",
+            "id": "389",
+            "symbol": "",
+            "amount": "100000",
+            "shares": ""
+        },
+        {
+            "name": "sachin chouksey",
+            "id": "456",
+            "symbol": "",
+            "amount": "2000",
+            "shares": "10"
+        },
+        {
+            "name": "akshaya",
+            "id": "236",
+            "symbol": "",
+            "amount": "1000",
+            "shares": "6"
+        }
+    ]
+}
